@@ -1,0 +1,40 @@
+a:link {
+    font-size: 30px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    width: 230px;
+    text-align: center;
+    margin: auto;
+    border-radius: 25px;
+    display: block;
+    padding: 10px 30px;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    background-color: rgb(79, 82, 81);
+}
+
+a:active {
+    background-color: rgb(79, 82, 81);
+}
+
+
+#click {
+    height: 100%;
+    margin: auto;
+    position: relative;
+    top: 100px;
+}
+
+body {
+    background-color: #f4f4f4;
+}
+
+
+
+
