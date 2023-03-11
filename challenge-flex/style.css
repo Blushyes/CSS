@@ -135,10 +135,11 @@ a {
 .sale {
     background-color: red;
     color: white;
-    display: inline ;
+    display: inline;
+    float: left;
     padding: 10px 20px;
     left: -39px;
-    top: -13px;
+    top: -21px;
     position: relative;
     z-index: 2;
 }
